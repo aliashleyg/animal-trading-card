@@ -1,0 +1,50 @@
+body {
+	width: 360px;
+}
+
+img {
+	margin-bottom: 15px;
+}
+
+h3 {
+	font-size: 1.8em;
+	margin: 20px 0 30px 0px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+li {
+	font-size: 1.1em;
+	line-height: 1.3em;
+}
+
+p {
+	font-size: 1.1em;
+}
+
+.outer, .inner{
+	border: thin solid rgba(202, 202, 202, .8);
+	padding: 0 15px;
+}
+
+.outer {
+	padding: 15px;
+	margin: 12px;
+	box-shadow: 9px 9px 1px rgba(228, 228, 228, .5);
+}
+
+.fact {
+	font-style: italic;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.desc {
+	padding: 5px 0;
+	line-height: 1.3em;
+}
